@@ -1,3 +1,5 @@
+###22학번 금종혁입니다.
+
 ![GitHub stars](https://img.shields.io/github/stars/KeumJongHyuk?style=social)
 # 2025_PHwal
 2025년 프로그램언어활용 1학기
