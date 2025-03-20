@@ -1,8 +1,4 @@
 ![GitHub stars](https://img.shields.io/github/stars/KeumJongHyuk?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
 # 2025_PHwal
 2025년 프로그램언어활용 1학기
 
