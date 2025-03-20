@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/KeumJongHyuk?style=social)
+![image](https://github.com/user-attachments/assets/e886468e-16d2-4060-b2e9-7020f6c0b3ed)
+
+
 # 2025_PHwal
 2025년 프로그램언어활용 1학기
 ##마크다운언어 사용방법
