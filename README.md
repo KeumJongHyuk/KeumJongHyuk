@@ -1,4 +1,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/KeumJongHyuk?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Emmett6401?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Emmett6401?style=social)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://github.com/user-attachments/assets/28f68cee-2d04-428f-8829-026c4c754487)
 
 
 # 2025_PHwal
